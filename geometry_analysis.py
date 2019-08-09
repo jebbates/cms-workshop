@@ -1,6 +1,8 @@
 """
 geometry_analysis.py
 This module contains the geometry analysis project from MolSSI workshop.
+
+Author : JEBates
 """
 import numpy 
 import os
